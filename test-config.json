@@ -1,0 +1,28 @@
+{
+  "source": [
+    "tokens/invideo/mazzy-original-modified.json"
+  ],
+  "platforms": {
+    "custom": {
+      "transforms": [
+        "attribute/cti",
+        "attribute/custom-cti-1",
+        "attribute/custom-cti-2",
+        "name/cti/camel",
+        "color/UIColorSwift",
+        "content/swift/literal",
+        "asset/swift/literal",
+        "size/swift/remToCGFloat",
+        "font/swift/literal"
+      ],
+      "buildPath": "ios/Classes/custom/",
+      "files": [
+        {
+          "destination": "Custom.swift",
+          "format": "ios-swift/enum.swift",
+          "className": "Custom"
+        }
+      ]
+    }
+  }
+}
