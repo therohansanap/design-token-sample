@@ -1,0 +1,2944 @@
+{
+  "mds": {
+    "color": {
+      "button": {
+        "isPrimary": {
+          "value": "#00a0f5",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0f5",
+            "type": "color"
+          },
+          "name": "mds_color_button_is_primary",
+          "attributes": {
+            "category": "mds",
+            "type": "color",
+            "item": "button",
+            "subitem": "isPrimary"
+          },
+          "path": [
+            "mds",
+            "color",
+            "button",
+            "isPrimary"
+          ]
+        },
+        "isDefault": {
+          "value": "#ffffff26",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff26",
+            "type": "color"
+          },
+          "name": "mds_color_button_is_default",
+          "attributes": {
+            "category": "mds",
+            "type": "color",
+            "item": "button",
+            "subitem": "isDefault"
+          },
+          "path": [
+            "mds",
+            "color",
+            "button",
+            "isDefault"
+          ]
+        }
+      },
+      "container": {
+        "isDefault": {
+          "dark": {
+            "value": "#00000026",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#00000026",
+              "type": "color"
+            },
+            "name": "mds_color_container_is_default_dark",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "isDefault",
+              "state": "dark"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "isDefault",
+              "dark"
+            ]
+          },
+          "light": {
+            "value": "#ffffff26",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff26",
+              "type": "color"
+            },
+            "name": "mds_color_container_is_default_light",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "isDefault",
+              "state": "light"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "isDefault",
+              "light"
+            ]
+          }
+        },
+        "onDefault": {
+          "dark": {
+            "value": "#ffffff",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "name": "mds_color_container_on_default_dark",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "onDefault",
+              "state": "dark"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "onDefault",
+              "dark"
+            ]
+          },
+          "light": {
+            "value": "#000000",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#000000",
+              "type": "color"
+            },
+            "name": "mds_color_container_on_default_light",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "onDefault",
+              "state": "light"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "onDefault",
+              "light"
+            ]
+          }
+        },
+        "isPrimary": {
+          "dark": {
+            "value": "#00a0f5",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#00a0f5",
+              "type": "color"
+            },
+            "name": "mds_color_container_is_primary_dark",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "isPrimary",
+              "state": "dark"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "isPrimary",
+              "dark"
+            ]
+          },
+          "light": {
+            "value": "#00a0f5",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#00a0f5",
+              "type": "color"
+            },
+            "name": "mds_color_container_is_primary_light",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "isPrimary",
+              "state": "light"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "isPrimary",
+              "light"
+            ]
+          }
+        },
+        "onPrimary": {
+          "dark": {
+            "value": "#ffffff",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "name": "mds_color_container_on_primary_dark",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "onPrimary",
+              "state": "dark"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "onPrimary",
+              "dark"
+            ]
+          },
+          "light": {
+            "value": "#ffffff",
+            "type": "color",
+            "filePath": "tokens/invideo/mazzy-original-transformed.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "name": "mds_color_container_on_primary_light",
+            "attributes": {
+              "category": "mds",
+              "type": "color",
+              "item": "container",
+              "subitem": "onPrimary",
+              "state": "light"
+            },
+            "path": [
+              "mds",
+              "color",
+              "container",
+              "onPrimary",
+              "light"
+            ]
+          }
+        },
+        "pressed": {
+          "isDefault": {
+            "dark": {
+              "value": "#00000026",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00000026",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_is_default_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "isDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "isDefault",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#ffffff26",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff26",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_is_default_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "isDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "isDefault",
+                "light"
+              ]
+            }
+          },
+          "onDefault": {
+            "dark": {
+              "value": "#ffffff8c",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff8c",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_on_default_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "onDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "onDefault",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#0000008c",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#0000008c",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_on_default_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "onDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "onDefault",
+                "light"
+              ]
+            }
+          },
+          "isPrimary": {
+            "dark": {
+              "value": "#00a0f5",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00a0f5",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_is_primary_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "isPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "isPrimary",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#00a0f5",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00a0f5",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_is_primary_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "isPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "isPrimary",
+                "light"
+              ]
+            }
+          },
+          "onPrimary": {
+            "dark": {
+              "value": "#ffffff8c",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff8c",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_on_primary_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "onPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "onPrimary",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#ffffff8c",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff8c",
+                "type": "color"
+              },
+              "name": "mds_color_container_pressed_on_primary_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "pressed",
+                "state": "onPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "pressed",
+                "onPrimary",
+                "light"
+              ]
+            }
+          }
+        },
+        "disabled": {
+          "isDefault": {
+            "dark": {
+              "value": "#00000026",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00000026",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_is_default_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "isDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "isDefault",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#ffffff26",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff26",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_is_default_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "isDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "isDefault",
+                "light"
+              ]
+            }
+          },
+          "onDefault": {
+            "dark": {
+              "value": "#ffffff26",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff26",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_on_default_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "onDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "onDefault",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#00000026",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00000026",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_on_default_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "onDefault"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "onDefault",
+                "light"
+              ]
+            }
+          },
+          "isPrimary": {
+            "dark": {
+              "value": "#0a6a9d",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#0a6a9d",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_is_primary_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "isPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "isPrimary",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#2d95cc",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#2d95cc",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_is_primary_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "isPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "isPrimary",
+                "light"
+              ]
+            }
+          },
+          "onPrimary": {
+            "dark": {
+              "value": "#ffffff26",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffffff26",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_on_primary_dark",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "onPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "onPrimary",
+                "dark"
+              ]
+            },
+            "light": {
+              "value": "#00000026",
+              "type": "color",
+              "filePath": "tokens/invideo/mazzy-original-transformed.json",
+              "isSource": true,
+              "original": {
+                "value": "#00000026",
+                "type": "color"
+              },
+              "name": "mds_color_container_disabled_on_primary_light",
+              "attributes": {
+                "category": "mds",
+                "type": "color",
+                "item": "container",
+                "subitem": "disabled",
+                "state": "onPrimary"
+              },
+              "path": [
+                "mds",
+                "color",
+                "container",
+                "disabled",
+                "onPrimary",
+                "light"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "ds": {
+    "color": {
+      "white": {
+        "2": {
+          "value": "#ffffff05",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff05",
+            "type": "color"
+          },
+          "name": "ds_color_white_2",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "2"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "2"
+          ]
+        },
+        "3": {
+          "value": "#ffffff08",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff08",
+            "type": "color"
+          },
+          "name": "ds_color_white_3",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "3"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "3"
+          ]
+        },
+        "4": {
+          "value": "#ffffff0a",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff0a",
+            "type": "color"
+          },
+          "name": "ds_color_white_4",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "4"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "4"
+          ]
+        },
+        "5": {
+          "value": "#ffffff0d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff0d",
+            "type": "color"
+          },
+          "name": "ds_color_white_5",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "5"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "5"
+          ]
+        },
+        "6": {
+          "value": "#ffffff0f",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff0f",
+            "type": "color"
+          },
+          "name": "ds_color_white_6",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "6"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "6"
+          ]
+        },
+        "7": {
+          "value": "#ffffff12",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff12",
+            "type": "color"
+          },
+          "name": "ds_color_white_7",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "7"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "7"
+          ]
+        },
+        "8": {
+          "value": "#ffffff14",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff14",
+            "type": "color"
+          },
+          "name": "ds_color_white_8",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "8"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "8"
+          ]
+        },
+        "9": {
+          "value": "#ffffff17",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff17",
+            "type": "color"
+          },
+          "name": "ds_color_white_9",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "9"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "9"
+          ]
+        },
+        "10": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff1a",
+            "type": "color"
+          },
+          "name": "ds_color_white_10",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "10"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "10"
+          ]
+        },
+        "15": {
+          "value": "#ffffff26",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff26",
+            "type": "color"
+          },
+          "name": "ds_color_white_15",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "15"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "15"
+          ]
+        },
+        "20": {
+          "value": "#ffffff33",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff33",
+            "type": "color"
+          },
+          "name": "ds_color_white_20",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "20"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "20"
+          ]
+        },
+        "25": {
+          "value": "#ffffff40",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff40",
+            "type": "color"
+          },
+          "name": "ds_color_white_25",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "25"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "25"
+          ]
+        },
+        "30": {
+          "value": "#ffffff4d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff4d",
+            "type": "color"
+          },
+          "name": "ds_color_white_30",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "30"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "30"
+          ]
+        },
+        "35": {
+          "value": "#ffffff59",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff59",
+            "type": "color"
+          },
+          "name": "ds_color_white_35",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "35"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "35"
+          ]
+        },
+        "40": {
+          "value": "#ffffff66",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff66",
+            "type": "color"
+          },
+          "name": "ds_color_white_40",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "40"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "40"
+          ]
+        },
+        "45": {
+          "value": "#ffffff73",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff73",
+            "type": "color"
+          },
+          "name": "ds_color_white_45",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "45"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "45"
+          ]
+        },
+        "50": {
+          "value": "#ffffff80",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff80",
+            "type": "color"
+          },
+          "name": "ds_color_white_50",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "50"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "50"
+          ]
+        },
+        "55": {
+          "value": "#ffffff8c",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff8c",
+            "type": "color"
+          },
+          "name": "ds_color_white_55",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "55"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "55"
+          ]
+        },
+        "60": {
+          "value": "#ffffff99",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff99",
+            "type": "color"
+          },
+          "name": "ds_color_white_60",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "60"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "60"
+          ]
+        },
+        "65": {
+          "value": "#ffffffa6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffa6",
+            "type": "color"
+          },
+          "name": "ds_color_white_65",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "65"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "65"
+          ]
+        },
+        "70": {
+          "value": "#ffffffb3",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffb3",
+            "type": "color"
+          },
+          "name": "ds_color_white_70",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "70"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "70"
+          ]
+        },
+        "75": {
+          "value": "#ffffffbf",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffbf",
+            "type": "color"
+          },
+          "name": "ds_color_white_75",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "75"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "75"
+          ]
+        },
+        "80": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffcc",
+            "type": "color"
+          },
+          "name": "ds_color_white_80",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "80"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "80"
+          ]
+        },
+        "85": {
+          "value": "#ffffffd9",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffd9",
+            "type": "color"
+          },
+          "name": "ds_color_white_85",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "85"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "85"
+          ]
+        },
+        "90": {
+          "value": "#ffffffe6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffffe6",
+            "type": "color"
+          },
+          "name": "ds_color_white_90",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "90"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "90"
+          ]
+        },
+        "solid": {
+          "value": "#ffffff",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "name": "ds_color_white_solid",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "white",
+            "subitem": "solid"
+          },
+          "path": [
+            "ds",
+            "color",
+            "white",
+            "solid"
+          ]
+        }
+      },
+      "black": {
+        "1": {
+          "value": "#00000003",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000003",
+            "type": "color"
+          },
+          "name": "ds_color_black_1",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "1"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "1"
+          ]
+        },
+        "2": {
+          "value": "#00000005",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000005",
+            "type": "color"
+          },
+          "name": "ds_color_black_2",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "2"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "2"
+          ]
+        },
+        "3": {
+          "value": "#00000008",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000008",
+            "type": "color"
+          },
+          "name": "ds_color_black_3",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "3"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "3"
+          ]
+        },
+        "4": {
+          "value": "#0000000a",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000000a",
+            "type": "color"
+          },
+          "name": "ds_color_black_4",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "4"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "4"
+          ]
+        },
+        "5": {
+          "value": "#0000000d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000000d",
+            "type": "color"
+          },
+          "name": "ds_color_black_5",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "5"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "5"
+          ]
+        },
+        "6": {
+          "value": "#0000000f",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000000f",
+            "type": "color"
+          },
+          "name": "ds_color_black_6",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "6"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "6"
+          ]
+        },
+        "7": {
+          "value": "#00000012",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000012",
+            "type": "color"
+          },
+          "name": "ds_color_black_7",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "7"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "7"
+          ]
+        },
+        "8": {
+          "value": "#00000014",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000014",
+            "type": "color"
+          },
+          "name": "ds_color_black_8",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "8"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "8"
+          ]
+        },
+        "9": {
+          "value": "#00000017",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000017",
+            "type": "color"
+          },
+          "name": "ds_color_black_9",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "9"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "9"
+          ]
+        },
+        "10": {
+          "value": "#0000001a",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000001a",
+            "type": "color"
+          },
+          "name": "ds_color_black_10",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "10"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "10"
+          ]
+        },
+        "15": {
+          "value": "#00000026",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000026",
+            "type": "color"
+          },
+          "name": "ds_color_black_15",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "15"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "15"
+          ]
+        },
+        "20": {
+          "value": "#00000033",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000033",
+            "type": "color"
+          },
+          "name": "ds_color_black_20",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "20"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "20"
+          ]
+        },
+        "25": {
+          "value": "#00000040",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000040",
+            "type": "color"
+          },
+          "name": "ds_color_black_25",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "25"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "25"
+          ]
+        },
+        "30": {
+          "value": "#0000004d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000004d",
+            "type": "color"
+          },
+          "name": "ds_color_black_30",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "30"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "30"
+          ]
+        },
+        "35": {
+          "value": "#00000059",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000059",
+            "type": "color"
+          },
+          "name": "ds_color_black_35",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "35"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "35"
+          ]
+        },
+        "40": {
+          "value": "#00000066",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000066",
+            "type": "color"
+          },
+          "name": "ds_color_black_40",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "40"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "40"
+          ]
+        },
+        "45": {
+          "value": "#00000073",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000073",
+            "type": "color"
+          },
+          "name": "ds_color_black_45",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "45"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "45"
+          ]
+        },
+        "50": {
+          "value": "#00000080",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000080",
+            "type": "color"
+          },
+          "name": "ds_color_black_50",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "50"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "50"
+          ]
+        },
+        "55": {
+          "value": "#0000008c",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0000008c",
+            "type": "color"
+          },
+          "name": "ds_color_black_55",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "55"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "55"
+          ]
+        },
+        "60": {
+          "value": "#00000099",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00000099",
+            "type": "color"
+          },
+          "name": "ds_color_black_60",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "60"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "60"
+          ]
+        },
+        "65": {
+          "value": "#000000a6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000a6",
+            "type": "color"
+          },
+          "name": "ds_color_black_65",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "65"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "65"
+          ]
+        },
+        "70": {
+          "value": "#000000b3",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000b3",
+            "type": "color"
+          },
+          "name": "ds_color_black_70",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "70"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "70"
+          ]
+        },
+        "75": {
+          "value": "#000000bf",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000bf",
+            "type": "color"
+          },
+          "name": "ds_color_black_75",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "75"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "75"
+          ]
+        },
+        "80": {
+          "value": "#000000cc",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000cc",
+            "type": "color"
+          },
+          "name": "ds_color_black_80",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "80"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "80"
+          ]
+        },
+        "85": {
+          "value": "#000000d9",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000d9",
+            "type": "color"
+          },
+          "name": "ds_color_black_85",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "85"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "85"
+          ]
+        },
+        "90": {
+          "value": "#000000e6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000e6",
+            "type": "color"
+          },
+          "name": "ds_color_black_90",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "90"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "90"
+          ]
+        },
+        "solid": {
+          "value": "#000000",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "name": "ds_color_black_solid",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "black",
+            "subitem": "solid"
+          },
+          "path": [
+            "ds",
+            "color",
+            "black",
+            "solid"
+          ]
+        }
+      },
+      "grey": {
+        "5": {
+          "value": "#f2f2f2",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#f2f2f2",
+            "type": "color"
+          },
+          "name": "ds_color_grey_5",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "5"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "5"
+          ]
+        },
+        "7": {
+          "value": "#ededed",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#ededed",
+            "type": "color"
+          },
+          "name": "ds_color_grey_7",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "7"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "7"
+          ]
+        },
+        "10": {
+          "value": "#e6e6e6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#e6e6e6",
+            "type": "color"
+          },
+          "name": "ds_color_grey_10",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "10"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "10"
+          ]
+        },
+        "15": {
+          "value": "#d9d9d9",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "name": "ds_color_grey_15",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "15"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "15"
+          ]
+        },
+        "20": {
+          "value": "#cccccc",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#cccccc",
+            "type": "color"
+          },
+          "name": "ds_color_grey_20",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "20"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "20"
+          ]
+        },
+        "25": {
+          "value": "#bfbfbf",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#bfbfbf",
+            "type": "color"
+          },
+          "name": "ds_color_grey_25",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "25"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "25"
+          ]
+        },
+        "30": {
+          "value": "#b3b3b3",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#b3b3b3",
+            "type": "color"
+          },
+          "name": "ds_color_grey_30",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "30"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "30"
+          ]
+        },
+        "35": {
+          "value": "#a6a6a6",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#a6a6a6",
+            "type": "color"
+          },
+          "name": "ds_color_grey_35",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "35"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "35"
+          ]
+        },
+        "40": {
+          "value": "#999999",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#999999",
+            "type": "color"
+          },
+          "name": "ds_color_grey_40",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "40"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "40"
+          ]
+        },
+        "50": {
+          "value": "#808080",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#808080",
+            "type": "color"
+          },
+          "name": "ds_color_grey_50",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "50"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "50"
+          ]
+        },
+        "60": {
+          "value": "#666666",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#666666",
+            "type": "color"
+          },
+          "name": "ds_color_grey_60",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "60"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "60"
+          ]
+        },
+        "70": {
+          "value": "#4d4d4d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#4d4d4d",
+            "type": "color"
+          },
+          "name": "ds_color_grey_70",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "70"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "70"
+          ]
+        },
+        "80": {
+          "value": "#333333",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#333333",
+            "type": "color"
+          },
+          "name": "ds_color_grey_80",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "80"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "80"
+          ]
+        },
+        "85": {
+          "value": "#262626",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "name": "ds_color_grey_85",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "85"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "85"
+          ]
+        },
+        "90": {
+          "value": "#191919",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#191919",
+            "type": "color"
+          },
+          "name": "ds_color_grey_90",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "90"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "90"
+          ]
+        },
+        "95": {
+          "value": "#0d0d0d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0d0d0d",
+            "type": "color"
+          },
+          "name": "ds_color_grey_95",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "grey",
+            "subitem": "95"
+          },
+          "path": [
+            "ds",
+            "color",
+            "grey",
+            "95"
+          ]
+        }
+      },
+      "orange": {
+        "strong": {
+          "value": "#f88646",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#f88646",
+            "type": "color"
+          },
+          "name": "ds_color_orange_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "orange",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "orange",
+            "strong"
+          ]
+        }
+      },
+      "red": {
+        "strong": {
+          "value": "#f33d5e",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#f33d5e",
+            "type": "color"
+          },
+          "name": "ds_color_red_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "red",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "red",
+            "strong"
+          ]
+        }
+      },
+      "pink": {
+        "strong": {
+          "value": "#dc2d83",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#dc2d83",
+            "type": "color"
+          },
+          "name": "ds_color_pink_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "pink",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "pink",
+            "strong"
+          ]
+        }
+      },
+      "raspberry": {
+        "strong": {
+          "value": "#c51ea9",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#c51ea9",
+            "type": "color"
+          },
+          "name": "ds_color_raspberry_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "raspberry",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "raspberry",
+            "strong"
+          ]
+        }
+      },
+      "violet": {
+        "strong": {
+          "value": "#8610de",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#8610de",
+            "type": "color"
+          },
+          "name": "ds_color_violet_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "violet",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "violet",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#8437bd",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#8437bd",
+            "type": "color"
+          },
+          "name": "ds_color_violet_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "violet",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "violet",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#5a148f",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#5a148f",
+            "type": "color"
+          },
+          "name": "ds_color_violet_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "violet",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "violet",
+            "dark"
+          ]
+        }
+      },
+      "blueberry": {
+        "strong": {
+          "value": "#4f3ce4",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#4f3ce4",
+            "type": "color"
+          },
+          "name": "ds_color_blueberry_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "blueberry",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "blueberry",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#6054c1",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#6054c1",
+            "type": "color"
+          },
+          "name": "ds_color_blueberry_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "blueberry",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "blueberry",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#392e93",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#392e93",
+            "type": "color"
+          },
+          "name": "ds_color_blueberry_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "blueberry",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "blueberry",
+            "dark"
+          ]
+        }
+      },
+      "klein": {
+        "strong": {
+          "value": "#0f73ff",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0f73ff",
+            "type": "color"
+          },
+          "name": "ds_color_klein_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "klein",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "klein",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#3778d3",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#3778d3",
+            "type": "color"
+          },
+          "name": "ds_color_klein_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "klein",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "klein",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#0e4a9e",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0e4a9e",
+            "type": "color"
+          },
+          "name": "ds_color_klein_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "klein",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "klein",
+            "dark"
+          ]
+        }
+      },
+      "sky": {
+        "strong": {
+          "value": "#00a0f5",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0f5",
+            "type": "color"
+          },
+          "name": "ds_color_sky_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "sky",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "sky",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#2d95cc",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#2d95cc",
+            "type": "color"
+          },
+          "name": "ds_color_sky_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "sky",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "sky",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#0a6a9d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#0a6a9d",
+            "type": "color"
+          },
+          "name": "ds_color_sky_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "sky",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "sky",
+            "dark"
+          ]
+        }
+      },
+      "marine": {
+        "strong": {
+          "value": "#10BDDB",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#10BDDB",
+            "type": "color"
+          },
+          "name": "ds_color_marine_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "marine",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "marine",
+            "strong"
+          ]
+        }
+      },
+      "turqouise": {
+        "strong": {
+          "value": "#1fd9c1",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#1fd9c1",
+            "type": "color"
+          },
+          "name": "ds_color_turqouise_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "turqouise",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "turqouise",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#41baaa",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#41baaa",
+            "type": "color"
+          },
+          "name": "ds_color_turqouise_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "turqouise",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "turqouise",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#1d8c7e",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#1d8c7e",
+            "type": "color"
+          },
+          "name": "ds_color_turqouise_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "turqouise",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "turqouise",
+            "dark"
+          ]
+        }
+      },
+      "spring": {
+        "strong": {
+          "value": "#4beb6e",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#4beb6e",
+            "type": "color"
+          },
+          "name": "ds_color_spring_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "spring",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "spring",
+            "strong"
+          ]
+        },
+        "light": {
+          "value": "#5ec674",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#5ec674",
+            "type": "color"
+          },
+          "name": "ds_color_spring_light",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "spring",
+            "subitem": "light"
+          },
+          "path": [
+            "ds",
+            "color",
+            "spring",
+            "light"
+          ]
+        },
+        "dark": {
+          "value": "#37974c",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#37974c",
+            "type": "color"
+          },
+          "name": "ds_color_spring_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "spring",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "spring",
+            "dark"
+          ]
+        }
+      },
+      "lime": {
+        "strong": {
+          "value": "#b8d600",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#b8d600",
+            "type": "color"
+          },
+          "name": "ds_color_lime_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "lime",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "lime",
+            "strong"
+          ]
+        },
+        "ligth": {
+          "value": "#a4b82d",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#a4b82d",
+            "type": "color"
+          },
+          "name": "ds_color_lime_ligth",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "lime",
+            "subitem": "ligth"
+          },
+          "path": [
+            "ds",
+            "color",
+            "lime",
+            "ligth"
+          ]
+        },
+        "dark": {
+          "value": "#788a0a",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#788a0a",
+            "type": "color"
+          },
+          "name": "ds_color_lime_dark",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "lime",
+            "subitem": "dark"
+          },
+          "path": [
+            "ds",
+            "color",
+            "lime",
+            "dark"
+          ]
+        }
+      },
+      "lemon": {
+        "strong": {
+          "value": "#dcea00",
+          "type": "color",
+          "filePath": "tokens/invideo/mazzy-original-transformed.json",
+          "isSource": true,
+          "original": {
+            "value": "#dcea00",
+            "type": "color"
+          },
+          "name": "ds_color_lemon_strong",
+          "attributes": {
+            "category": "ds",
+            "type": "color",
+            "item": "lemon",
+            "subitem": "strong"
+          },
+          "path": [
+            "ds",
+            "color",
+            "lemon",
+            "strong"
+          ]
+        }
+      }
+    }
+  }
+}

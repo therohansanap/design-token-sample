@@ -1,13 +1,12 @@
 {
   "source": [
-    "tokens/invideo/mazzy-original-modified.json"
+    "tokens/invideo/mazzy-original-transformed.json"
   ],
   "platforms": {
     "custom": {
       "transforms": [
         "attribute/cti",
         "attribute/custom-cti-1",
-        "attribute/custom-cti-2",
         "name/cti/camel",
         "color/UIColorSwift",
         "content/swift/literal",
@@ -21,6 +20,39 @@
           "destination": "Custom.swift",
           "format": "ios-swift/enum.swift",
           "className": "Custom"
+        }
+      ]
+    },
+"android": {
+      "transforms": [
+        "attribute/cti",
+        "attribute/custom-cti-1",
+        "name/cti/snake",
+        "color/hex8android",
+	"size/dp",
+        "size/sp"
+      ],
+      "buildPath": "android/styledictionary/src/main/res/values/",
+      "files": [
+        {
+          "destination": "style_dictionary_colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "style_dictionary_font_dimens.xml",
+          "format": "android/fontDimens"
+        },
+        {
+          "destination": "style_dictionary_dimens.xml",
+          "format": "android/dimens"
+        },
+        {
+          "destination": "style_dictionary_integers.xml",
+          "format": "android/integers"
+        },
+        {
+          "destination": "style_dictionary_strings.xml",
+          "format": "android/strings"
         }
       ]
     }

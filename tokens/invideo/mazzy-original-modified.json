@@ -444,7 +444,7 @@
   "mds.light": {
     "colour": {
       "isPrimary": {
-        "value": "{ds.palette.skyStrong}",
+        "value": "{:ds.palette.skyStrong}",
         "type": "color"
       },
       "onPrimary": {

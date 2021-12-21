@@ -11,16 +11,25 @@ StyleDictionary.registerTransform({
   }
 })
 
-StyleDictionary.registerTransform({
-  type: 'attribute',
-  transitive: true,
-  name: 'attribute/custom-cti-2',
-  matcher: (token) => { return token.value.hasOwnProperty('value') },
-  transformer: (token) => {
-    token.value = token.value.value
-    return token
-  }
-})
+const { execSync } = require("child_process");
 
-const myStyleDictionary = StyleDictionary.extend('test-config.json');
-myStyleDictionary.buildPlatform('custom');
+execSync("node node_modules/token-transformer tokens/invideo/mazzy-original-final.json tokens/invideo/mazzy-original-transformed.json", (error, stdout, stderr) => {
+  console.log('Inside 1')
+    if (error) {
+        console.log(`error: ${error.message}`);
+        return;
+    }
+    if (stderr) {
+        console.log(`stderr: ${stderr}`);
+        return;
+    }
+    console.log(`stdout: ${stdout}`);
+    //const myStyleDictionary = StyleDictionary.extend('test-config.json');
+    //myStyleDictionary.buildPlatform('custom');
+
+});
+console.log('outside')
+
+//TODO Read json from our fileHeader
+//TODO Transform using plugin
+//TODO Pass the transformed json to build function.

@@ -1,6 +1,6 @@
 {
   "source": [
-    "tokens/**/*.json"
+    "tokens/invideo/mazzy-original-transformed.json"
   ],
   "platforms": {
     "ios": {
